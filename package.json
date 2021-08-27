@@ -1,0 +1,23 @@
+{
+  "name": "full-stack-open-part9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javierclavijo/full-stack-open-part9.git"
+  },
+  "author": "Javier Clavijo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javierclavijo/full-stack-open-part9/issues"
+  },
+  "homepage": "https://github.com/javierclavijo/full-stack-open-part9#readme",
+  "dependencies": {
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.2"
+  }
+}
